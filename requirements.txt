@@ -1,0 +1,3 @@
+requests
+python-dotenv
+#Commande pour les outils "pip install -r requirements.txt"
